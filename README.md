@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/ademir_red)
 
-![Ademir GitHub stats](https://github-readme-stats.vercel.app/api?username=ademirred&show_icons=true&theme=radical)
+![Ademir GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemirRed&show_icons=true&theme=radical)
 
 
 ### Tecnologias que eu uso no meu dia a dia.
